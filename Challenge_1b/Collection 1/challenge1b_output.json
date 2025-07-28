@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T23:14:46.141422"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Section 1",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Section 1",
+            "importance_rank": 2,
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Section 1",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Section 1",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Section 1",
+            "importance_rank": 5,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Notebook:  Bring a notebook to jot down notes about the wines you taste. \u2022 Water Bottle:  Stay hydrated by drinking wate r between tastings. \u2022 Additional Tips:  Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. Tips and Tricks for Packing \u2022 Check the Weather:  Check the forecast before packing to ensure appro priate clothing. \u2022 Make a Packing List:  Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you pack. \u2022 Use Packing Cubes:  Organize clothes and maximize space. \u2022 Roll Your Clothes:  Save space and reduce wrinkles. \u2022 Pack Dual -Purpose Items:  Choose item s that serve multiple purposes. \u2022 Wear Bulky Items:  Wear bulky items like coats or boots during travel to save suitcase space. \u2022 Pack a Day Bag:  Bring a small day bag for daily excursions. \u2022 Leave Room for Souvenirs:  Leave extra space or bring a foldable bag for souvenirs. \u2022 Additional Tips:  Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Additional Tips:  Bring a favorite stu\ufb00ed animal or comfor t item to help kids feel at home. Consider packing a travel potty for young children. Special Considerations Beach Trips \u2022 Beach Bag:  A large, waterproof bag for essentials. \u2022 Towels:  Lightweight, quick -drying beach towels. \u2022 Beach Toys:  Buckets, shovels, and t oys for kids. \u2022 Snorkeling Gear:  Bring your own gear for a better fit and comfort. \u2022 Additional Tips:  Pack a beach umbrella or tent for shade and a cooler for drinks and snacks. Consider bringing a waterproof phone case to protect your device. Hiking and Outdo or Activities \u2022 Backpack:  A sturdy, comfortable backpack for essentials. \u2022 Water Bottle:  A reusable water bottle. \u2022 First Aid Kit:  A small kit with band -aids, antiseptic wipes, and medications. \u2022 Insect Repellent:  Protect against bugs and mosquitoes. \u2022 Additional Ti ps:  Wear moisture -wicking clothing and sturdy hiking boots. Bring a map and compass or GPS device. Pack energy bars or snacks for long hikes. City Exploration \u2022 Day Bag:  A small, secure day bag for carrying essentials like water, snacks, and a camera. \u2022 Comfortable Shoes:  Wear comfortable walking shoes for exploring cities. \u2022 Guidebook:  A guidebook or map to help navigate and find points of interest. \u2022 Additional Tips:  Use a money belt or hidden pouch to keep valuables safe. Consider using public transportati on to explore cities e\ufb03ciently.",
+            "page_number": 7
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "The Ultimate South of France Travel Companion:  Your Comprehensive Guide to Packing, Planning, and Exploring Introduction Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 Additional Tips:  Winter is mild compared to other regions, but it's still important to pack warm clothing for cooler evenings. Consider packing ther mal underwear for extra warmth. Packing for Adults Clothing \u2022 Casual Wear:  Comfortable clothes for sightseeing and casual dining, like jeans, t - shirts, and casual dresses. \u2022 Evening Wear:  Dressier outfits for dining out or events. Pack a nice dress or dress pants and a blouse/shirt. \u2022 Active Wear:  If you plan on hiking or outdoor activities, pack activewear like leggings, shorts, and moisture -wicking tops. \u2022 Swimwear:  Don't forget your swimsuit for beach or pool visits. \u2022 Accessories:  A stylish yet functional bag, a lightweight scarf, and a versatile jacket. \u2022 Additional Tips:  Pack a few statement pieces that can be dressed up or down, such as a versatile dress or a pair of stylish shoes. Toiletries \u2022 Basic Toiletries:  Toothbrush, toothpaste, shampoo, conditioner, body wash, deodorant, and personal hygiene items. \u2022 Skincare:  Sunscreen, moisturizer, and daily skincare products. \u2022 Makeup:  Pack essentials in a travel -sized makeup bag. \u2022 Additional Items:  A small sewing kit, nail clippers, and a razor. \u2022 Additional Tips:  Consider packing a travel -sized perfume or cologne to freshen up on the go. Gadgets and Accessories \u2022 Electronics:  Smartphone, charger, power bank, and other devices. Bring a travel adapter if needed. \u2022 Camera:  Capture memories with a camera, extra batteries, and memory cards.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "General Packing Tips and Tricks \u2022 Layeri ng:  The weather can vary, so pack layers to stay comfortable in di\ufb00erent temperatures. \u2022 Versatile Clothing:  Choose items that can be mixed and matched to create multiple outfits, helping you pack lighter. \u2022 Packing Cubes:  Use packing cubes to organize your c lothes and maximize suitcase space. \u2022 Roll Your Clothes:  Rolling clothes saves space and reduces wrinkles. \u2022 Travel -Sized Toiletries:  Bring travel -sized toiletries to save space and comply with airline regulations. \u2022 Reusable Bags:  Pack a few reusable bags for l aundry, shoes, or shopping. \u2022 First Aid Kit:  Include a small first aid kit with band- aids, antiseptic wipes, and any necessary medications. \u2022 Copies of Important Documents:  Make copies of your passport, travel insurance, and other important documents. Keep them separate from the originals. \u2022 Portable Laundry Kit:  A small laundry kit with detergent and a travel clothesline can be handy for longer trips. \u2022 Multi -Purpose Shoes:  Choose shoes that are comfortable for walking but can also be worn to a nice dinner. \u2022 Travel Pillow and Blanket:  A compact travel pillow and blanket can make long flights or train rides more comfortable. \u2022 Ziplock Bags:  Use ziplock bags for liquids, snacks, or to keep items organized and protected from spills. \u2022 Emergency Contact List:  Have a list of emergency contacts, including local embassy or consulate information.",
+            "page_number": 2
+        }
+    ]
+}

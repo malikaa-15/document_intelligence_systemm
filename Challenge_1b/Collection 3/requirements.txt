@@ -1,0 +1,19 @@
+# Core PDF Processing
+PyPDF2==3.0.1
+PyMuPDF==1.23.5
+
+# Machine Learning & NLP
+sentence-transformers==2.2.2
+transformers==4.36.0
+torch==2.1.0
+scikit-learn==1.4.0
+numpy==1.26.0
+
+# Text Processing
+nltk==3.8.1
+spacy==3.7.2
+
+# Utilities
+pandas==2.1.4
+setuptools==65.0.0
+wheel==0.38.0

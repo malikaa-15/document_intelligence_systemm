@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T19:19:01.304182"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Falafel",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Baba Ganoush",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Hummus",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ratatouille",
+      "importance_rank": 4,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Vegetable Lasagna",
+      "importance_rank": 5,
+      "page_number": 8
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Falafel \uf0b7 Ingredients: 1 can chickpeas 1 small nin 2 clves garlic 1/4 cup parsley 1 teaspn cumin 1 teaspn criander 1 teaspn salt 1/4 cup flur Oil fr frying \uf0b7 Instructins: Drain and rinse chickpeas. Blend chickpeas, diced nin, minced garlic, chpped parsley, cumin, criander, and salt in a fd prcessr. Add flur and mix until cmbined. Frm mixture intballs and fry in ht il until glden.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Baba Ganush \uf0b7 Ingredients: 2 eggplants 1/4 cup tahini 1/4 cup lemn juice 2 clves garlic 1/4 cup live il 1 teaspn salt \uf0b7 Instructins: Rast eggplants until sft, then peel and mash. Blend mashed eggplant, tahini, lemn juice, minced garlic, and salt in a fd prcessr. Slwly add live il while blending until smth. Serve with a drizzle f live il.",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Hummus and Veggie Pita Ingredients: 1 whle wheat pita bread 1/2 cup hummus 1/2 cup cucumber, sliced 1/2 cup bell pepper, sliced 1/4 cup shredded carrts 1/4 cup baby spinach Instructins: Cut the pita bread in half tcreate pckets. Spread hummus inside each pcket. Fill with cucumber, bell pepper, carrts, and spinach.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ratatuille Ingredients: \uf0b7 1 eggplant, diced \uf0b7 1 zucchini, diced \uf0b7 1 bell pepper, diced \uf0b7 1 small nin, diced \uf0b7 2 clves garlic, minced \uf0b7 4 tmates, diced",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Vegetable Lasagna Ingredients: \uf0b7 9 lasagna ndles, cked \uf0b7 1 small nin, diced \uf0b7 2 clves garlic, minced \uf0b7 1 zucchini, sliced",
+      "page_number": 8
+    }
+  ]
+}
